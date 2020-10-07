@@ -1,0 +1,10 @@
+[general]
+display = both
+iconup = ⇧
+icondown = ⇩
+
+[INTC]
+icon = INTC
+
+[AMD]
+icon = AMD
